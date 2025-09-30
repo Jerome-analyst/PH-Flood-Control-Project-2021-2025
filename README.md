@@ -19,7 +19,7 @@ The objectives of this project are to design and develop a **dynamic Power BI da
 
 ## Dashboard Preview
 
-![Philippines Flood Control Dashboard](./dashboard/flood-control-dashboard.png)
+![Philippines Flood Control Dashboard](https://github.com/Jerome-analyst/PH-Flood-Control-Project-2021-2025/blob/main/BI%20Dashboard.png)
 
 
 ## Tools & Techniques
