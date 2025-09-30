@@ -1,5 +1,3 @@
-# Philippines Flood Control Projects (2021–2025)
-
 ## Project Overview
 
 This project is a **Power BI–based data analysis and visualization** of the Philippines’ flood control initiatives from 2021 to 2025. The analysis focuses on monitoring project costs, contractor performance, and implementation progress across multiple regions.
